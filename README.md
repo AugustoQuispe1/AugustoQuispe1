@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Augusto Quispe — a fullstack developer.  
-🖥️ I enjoy building applications using .NET, Angular, and Python.  
+🖥️ I enjoy building solutions and applications using .NET, Angular, Python and SQL.  
 Always learning and looking for ways to improve my code.
 ---
 
