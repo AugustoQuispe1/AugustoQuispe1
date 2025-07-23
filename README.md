@@ -35,6 +35,7 @@ If you'd like to get in touch, feel free to reach out through any of the platfor
   <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=entity-framework&logoColor=white" />
   <img src="https://img.shields.io/badge/Dapper-1389FD?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
